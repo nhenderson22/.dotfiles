@@ -8,6 +8,7 @@ Shell: ZSH w/OhMyZSH
 Compositor: Picon
 DE: i3 (no bar)
 Editors: emacs and vscode
+Misc: feh for the wallpaper
 ## Plans
 Eventually this will get updated to an install script but I havent got everything I want up here yer
 I want a good terminal file manager and to get my emacs dots worked out.
