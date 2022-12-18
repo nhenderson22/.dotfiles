@@ -1,0 +1,2 @@
+2022-12-18 10:26:36.991 [info] [perf] Render performance baseline is 31ms
+2022-12-18 10:26:43.980 [error] Error while registering log channel file:///home/noah/.config/Code%20-%20OSS/logs/20221218T102632/userDataSync.log Timed out while waiting for file to be created
