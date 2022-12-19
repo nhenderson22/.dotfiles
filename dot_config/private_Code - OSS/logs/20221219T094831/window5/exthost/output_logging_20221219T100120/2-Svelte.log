@@ -1,0 +1,9 @@
+Initialize language server at  file:///home/noah/Code/Discord-Clone
+Initialize new ts service at  /home/noah/Code/Discord-Clone/tsconfig.json
+Trying to load configs for /home/noah/Code/Discord-Clone
+Loaded config at  /home/noah/Code/Discord-Clone/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 4
+Svelte files: 2
+From node_modules: 0
+Total: 4

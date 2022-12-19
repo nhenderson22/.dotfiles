@@ -2,10 +2,17 @@
     "telemetry.machineId": "c2ef19486798e9a6ef5db37d6571d0a5e0523f552e4a5736f183fcef50b75a98",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/noah/Code"
+            },
+            {
+                "folderUri": "file:///home/noah/Code/Discord-Clone"
+            }
+        ],
         "emptyWindows": [
             {
-                "backupFolder": "1671351753090"
+                "backupFolder": "1671469236965"
             }
         ]
     },
@@ -49,6 +56,42 @@
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor",
                                     "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/noah/Code/Discord-Clone",
+                                        "path": "/home/noah/Code/Discord-Clone",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Code/Discord-Clone"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/noah/Code",
+                                        "path": "/home/noah/Code",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Code"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/noah",
+                                        "path": "/home/noah",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/noah"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -193,6 +236,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -388,7 +435,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -527,6 +575,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -615,8 +670,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -628,8 +682,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1141,6 +1194,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1278,6 +1336,11 @@
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1503,33 +1566,33 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e2e",
+    "themeBackground": "#282c34",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cdd6f4",
-            "background": "#1e1e2e",
-            "editorBackground": "#1e1e2e",
-            "titleBarBackground": "#11111b",
-            "activityBarBackground": "#11111b",
-            "sideBarBackground": "#181825",
-            "statusBarBackground": "#11111b",
-            "statusBarNoFolderBackground": "#11111b",
-            "windowBorder": "rgba(0, 0, 0, 0)"
+            "foreground": "#cccccc",
+            "background": "#282c34",
+            "editorBackground": "#282c34",
+            "titleBarBackground": "#282c34",
+            "activityBarBackground": "#282c34",
+            "sideBarBackground": "#21252b",
+            "statusBarBackground": "#21252b",
+            "statusBarNoFolderBackground": "#21252b"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 233,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/noah/.config/Code - OSS/Backups/1671351753090",
+            "folder": "file:///home/noah/Code/Discord-Clone",
+            "backupPath": "/home/noah/.config/Code - OSS/Backups/9f13e1bdf7f4410f0c342f6148286d7a",
             "uiState": {
                 "mode": 1,
                 "x": 21,

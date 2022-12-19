@@ -1,0 +1,11 @@
+2022-12-19 00:09:48.620 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-19 00:09:50.072 [info] Starting extension host with pid 62299 (fork() took 9 ms).
+2022-12-19 00:12:24.057 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: iconThemeData Length: 90464
+2022-12-19 00:27:18.971 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.views.extensions.installed.size Length: 1
+2022-12-19 00:27:25.817 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: colorThemeData Length: 48867
+2022-12-19 00:27:25.985 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: colorThemeData Length: 48870
+2022-12-19 00:27:27.641 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: colorThemeData Length: 48867
+2022-12-19 00:27:29.303 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.editor.languageDetectionOpenedLanguages.global Length: 140
+2022-12-19 00:27:34.624 [info] Waiting for extension host with pid 62299 to exit.
+2022-12-19 00:27:34.634 [info] Extension host with pid 62299 exited with code: 0, signal: null.
+2022-12-19 00:27:34.637 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorFontInfo Length: 990

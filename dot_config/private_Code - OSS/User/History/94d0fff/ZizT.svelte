@@ -1,0 +1,20 @@
+<script lang='ts'>
+import MessageStore from '../Stores/MessageStore'
+</script>
+
+<div class="InsertContainer">
+ <input type="text">
+ <button class="send-button">Send</button>
+</div>
+
+<style>
+.InsertContainer{
+    width: 300px;
+}
+.send-button {
+    height: 30px;
+}
+.send-button:hover{
+    opacity: .8;
+}
+</style>

@@ -1,0 +1,7 @@
+2022-12-19 00:36:30.978 [info] Starting worker process with pid 76103 (type: fileWatcher, window: 1).
+2022-12-19 00:36:41.093 [info] Getting Manifest... ph-hawkins.arc-plus
+2022-12-19 00:36:41.418 [info] Installing extension: ph-hawkins.arc-plus
+2022-12-19 00:36:44.033 [info] Extracted extension to /home/noah/.vscode-oss/extensions/.4eb9a143-5326-4376-97b0-eef4bb0e2f2e: ph-hawkins.arc-plus
+2022-12-19 00:36:44.040 [info] Renamed to /home/noah/.vscode-oss/extensions/ph-hawkins.arc-plus-1.0.2-universal
+2022-12-19 00:36:44.043 [info] Extracting completed. ph-hawkins.arc-plus
+2022-12-19 00:36:44.059 [info] Extension installed successfully: ph-hawkins.arc-plus

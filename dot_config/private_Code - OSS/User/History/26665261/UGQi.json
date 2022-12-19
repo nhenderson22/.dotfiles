@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Nord",
+    "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
+    "workbench.iconTheme": "simple-icons",
+    "svelte.enable-ts-plugin": true,
+    "svelte.plugin.svelte.note-new-transformation": false
+}

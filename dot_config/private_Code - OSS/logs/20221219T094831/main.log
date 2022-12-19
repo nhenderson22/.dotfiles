@@ -1,0 +1,8 @@
+2022-12-19 09:48:31.508 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-19 09:48:32.904 [info] Starting extension host with pid 98440 (fork() took 10 ms).
+2022-12-19 10:00:38.145 [info] Starting extension host with pid 109132 (fork() took 6 ms).
+2022-12-19 10:00:59.493 [info] Extension host with pid 109132 exited with code: 0, signal: null.
+2022-12-19 10:01:14.975 [info] Starting extension host with pid 109444 (fork() took 11 ms).
+2022-12-19 10:01:16.055 [info] Extension host with pid 109444 exited with code: 0, signal: null.
+2022-12-19 10:01:20.240 [info] Starting extension host with pid 109674 (fork() took 7 ms).
+2022-12-19 10:05:54.754 [info] Extension host with pid 98440 exited with code: 0, signal: null.

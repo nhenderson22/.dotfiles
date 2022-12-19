@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Arc+ (Dark Monochrome)",
+    "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
+    "svelte.plugin.svelte.note-new-transformation": false
+}

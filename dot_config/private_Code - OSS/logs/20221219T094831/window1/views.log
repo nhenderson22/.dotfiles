@@ -1,0 +1,15 @@
+2022-12-19 09:48:32.607 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2022-12-19 09:48:32.607 [info] Added views:workbench.panel.output in workbench.panel.output
+2022-12-19 09:48:32.607 [info] Added views:terminal in terminal
+2022-12-19 09:48:32.607 [info] Added views:outline in workbench.view.explorer
+2022-12-19 09:48:32.607 [info] Added views:workbench.scm in workbench.view.scm
+2022-12-19 09:48:32.607 [info] Added views:workbench.view.search in workbench.view.search
+2022-12-19 09:48:32.607 [info] Added views:timeline in workbench.view.explorer
+2022-12-19 09:48:32.607 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2022-12-19 09:48:32.703 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2022-12-19 09:48:33.117 [info] Added views:todo-tree-view in workbench.view.extension.todo-tree-container
+2022-12-19 09:48:33.731 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2022-12-19 09:48:34.181 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2022-12-19 09:48:34.183 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2022-12-19 09:48:48.482 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2022-12-19 09:48:48.503 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions

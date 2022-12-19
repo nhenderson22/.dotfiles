@@ -1,0 +1,7 @@
+2022-12-19 00:09:50.770 [info] Starting worker process with pid 62339 (type: fileWatcher, window: 1).
+2022-12-19 00:27:24.819 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2022-12-19 00:27:24.985 [info] Installing extension: catppuccin.catppuccin-vsc
+2022-12-19 00:27:25.251 [info] Extracted extension to /home/noah/.vscode-oss/extensions/.10d01496-05f2-462b-a266-7d7e2fff1706: catppuccin.catppuccin-vsc
+2022-12-19 00:27:25.259 [info] Renamed to /home/noah/.vscode-oss/extensions/catppuccin.catppuccin-vsc-2.5.0-universal
+2022-12-19 00:27:25.261 [info] Extracting completed. catppuccin.catppuccin-vsc
+2022-12-19 00:27:25.271 [info] Extension installed successfully: catppuccin.catppuccin-vsc

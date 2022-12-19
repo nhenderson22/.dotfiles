@@ -1,0 +1,10 @@
+2022-12-18 23:57:36.552 [info] Starting worker process with pid 21664 (type: fileWatcher, window: 1).
+2022-12-18 23:57:44.289 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2022-12-18 23:57:44.449 [info] Installing extension: arcticicestudio.nord-visual-studio-code
+2022-12-18 23:57:45.413 [info] Extracted extension to /home/noah/.vscode-oss/extensions/.51fba060-93dd-4410-b6b5-2f444201dfbe: arcticicestudio.nord-visual-studio-code
+2022-12-18 23:57:45.418 [info] Renamed to /home/noah/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0-universal
+2022-12-18 23:57:45.419 [info] Extracting completed. arcticicestudio.nord-visual-studio-code
+2022-12-18 23:57:45.428 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code
+2022-12-18 23:58:03.102 [info] Uninstalling extension from the profile: catppuccin.catppuccin-vsc@2.5.0 vscode-userdata:/home/noah/.vscode-oss/extensions/extensions.json
+2022-12-18 23:58:03.137 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-2.5.0-universal
+2022-12-18 23:58:03.332 [info] Successfully uninstalled extension from the profile catppuccin.catppuccin-vsc@2.5.0 vscode-userdata:/home/noah/.vscode-oss/extensions/extensions.json

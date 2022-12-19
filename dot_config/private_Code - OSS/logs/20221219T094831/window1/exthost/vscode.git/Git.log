@@ -1,0 +1,25 @@
+2022-12-19 09:48:34.770 [info] Log level: Info
+2022-12-19 09:48:34.770 [info] Validating found git in: "git"
+2022-12-19 09:48:34.770 [info] Using git "2.39.0" from "git"
+2022-12-19 09:48:34.770 [info] > git rev-parse --show-toplevel [13ms]
+2022-12-19 09:48:34.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:48:34.770 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-19 09:48:34.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:48:34.770 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-19 09:48:34.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:48:34.770 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-19 09:48:34.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:48:34.772 [info] > git rev-parse --show-toplevel [47ms]
+2022-12-19 09:48:34.772 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:48:35.055 [info] > git rev-parse --show-toplevel [7ms]
+2022-12-19 09:48:35.055 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:48:38.356 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-19 09:48:38.356 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 09:49:06.598 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-19 09:49:06.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 10:00:46.234 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-19 10:00:46.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 10:00:51.932 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-19 10:00:51.932 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-19 10:01:31.458 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-19 10:01:31.458 [info] fatal: not a git repository (or any of the parent directories): .git
