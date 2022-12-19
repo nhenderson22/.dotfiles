@@ -20,3 +20,5 @@
 2022-12-19 10:01:16.040 [info] Worker process with pid 109445 terminated normally (type: fileWatcher, window: 4).
 2022-12-19 10:01:20.258 [info] Starting worker process with pid 109673 (type: fileWatcher, window: 5).
 2022-12-19 10:05:54.749 [info] Worker process with pid 98480 terminated normally (type: fileWatcher, window: 1).
+2022-12-19 10:51:09.319 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-19 14:01:18.250 [warning] No ptyHost heartbeat after 6 seconds
